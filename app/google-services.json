@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051728827105",
+    "project_id": "crud-nahuel-47b6c",
+    "storage_bucket": "crud-nahuel-47b6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051728827105:android:62df00083a3d1190fcdda0",
+        "android_client_info": {
+          "package_name": "com.example.crudtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxdLzGciqV-JxYHyCyZ6Qf4DdxgxIKFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
